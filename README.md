@@ -13,7 +13,7 @@
     age: 23,
     city: 'Foz do Iguaçu, PR',
     stack: ['Java', 'Spring', 'React/Native', 'JPA/Hibernate', 'PHP/Laravel', '(My|Postgre)SQL'],
-    hobby: 'I love game dev, animes and horror'
+    hobby: 'I love game, animes and horror'
   });
 
   return response.status(201).send();
