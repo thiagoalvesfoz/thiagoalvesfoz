@@ -32,13 +32,10 @@
 ---
 
 <details>
-  <summary> <b> Want to know more about me? </b> <i>(Click here to expand
-)</i> </summary>
+  <summary> <b> Want to know more about me? </b> <i>(Click here to expand)</i> </summary>
   <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="thiagoalvesfoz" src="https://github-readme-stats.codestackr.vercel.app/api?username=thiagoalvesfoz&show_icons=true&hide_border=true&theme=dark" />
-  </a>
+
+[![Thiago github stats](https://github-readme-stats.vercel.app/api?username=thiagoalvesfoz&show_icons=true&theme=dark)](https://github.com/thiagoalvesfoz/github-readme-stats)
 
 ## Some Technologies
 
