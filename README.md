@@ -14,7 +14,7 @@
     birthday: '13/07',
     city: 'Foz do Iguaçu, PR',
     stack: ['Java', 'Spring', 'React/Native', 'JPA/Hibernate', 'PHP/Laravel', '(My|Postgre)SQL'],
-    hobby: 'I love to play, watch anime, series and play the guitar'
+    hobby: 'I love to play game, watch anime, series and play the guitar'
   });
 
   return response.status(201).send();
@@ -22,12 +22,10 @@
 
 #### Curiosities
 
-- 💙 In love with JavaScript
 - 🌱 Currently learning DevOps
 - 😄 Also a software engineering student
 - 🎵 I like listening to music while coding
 - :guitar: I already participated in rock bands in my teens.
-- 🌱 I’m currently learning React Native and Typescript
 
 ---
 
