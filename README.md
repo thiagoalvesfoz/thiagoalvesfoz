@@ -47,17 +47,19 @@
 ---
 
 <details>
-  <summary style="cursor: pointer;"> <b> Want to know more about me? </b> <i>(Click here to expand)</i> </summary>
+  <summary style="cursor: pointer;"> <b style="font-size: 18px; "> Want to know more about me? </b> <i style="color: #79c0ff;">(Click here to expand)</i> </summary>
   <br>
 
   <p align="center">
       <img
         align="center"
         alt="Most used languages"
+        style="margin-bottom: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalvesfoz&layout=compact&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00"
       />
     <img align="center"
         alt="Thiago Alves Github stats"
+        style="margin-bottom: 10px;"
         height="165" src="https://github-readme-stats.vercel.app/api?username=thiagoalvesfoz&show_icons=true&title_color=58A6DA&icon_color=8B949E&text_color=8B949E&bg_color=ffffff00" />
   </p>
 
@@ -74,7 +76,7 @@
     </p>
   </samp>
 
-#### 💬 Linguagens: <br/>
+#### 💬 Languages: <br/>
 
    <samp>
     <p align="left">
