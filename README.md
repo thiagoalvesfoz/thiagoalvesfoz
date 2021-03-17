@@ -30,7 +30,7 @@
     age: 23,
     birthday: '13/07',
     city: 'Foz do Iguaçu, PR',
-    main_stack: ['Java/Spring', 'JavaScript', 'React/Native', 'PHP/Laravel', '(My|Postgre)SQL'],
+    main_stack: ['Java/Spring', 'JavaScript/React', 'PHP/Laravel', '(My|Postgre)SQL'],
     hobby: 'I love to play game, watch anime, series and play the guitar'
   });
 
@@ -97,9 +97,6 @@
      <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F34E39?style=flat-square&logo=Laravel&logoColor=white" />
     </p>
   </samp>
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 
 #### 📦 Databases: <br/>
 
