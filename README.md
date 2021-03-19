@@ -59,6 +59,8 @@
   />
 </p>
 
+<br>
+
 <details>
   <summary style="cursor: pointer;"> <b style="font-size: 18px; "> 💻 Some Technologies </b> <i style="color: #79c0ff;">(Click here to expand)</i> </summary>
   <br>
