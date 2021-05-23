@@ -25,16 +25,19 @@
 </samp>
 
 ```javascript
-  async user.index({
+app.get("/", (req, res) => {
+
+  const user = {
     name: 'Thiago Alves',
     age: 23,
     birthday: '13/07',
     city: 'Foz do Iguaçu, PR',
-    main_stack: ['Java/Spring', 'JavaScript/React', 'PHP/Laravel', '(My|Postgre)SQL'],
+    main_stack: ['Java/Spring', 'JavaScript', 'React(JS|Native)', '(My|Postgre)SQL'],
     hobby: 'I love to play game, watch anime, series and play the guitar'
-  });
-
-  return response.status(201).send();
+  };
+  
+  res.json(user);
+});
 ```
 
 #### Curiosities
@@ -78,12 +81,14 @@
 
    <samp>
     <p align="left">
-    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/-php-4D588E?style=flat-square&logo=php&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white" />
+      <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript%20ES6-F7B93E?style=flat-square&logo=javascript&logoColor=black" />
+      <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logo=typescript&logoColor=white" />
+      <img alt="Java" src="https://img.shields.io/badge/-Java-DE252C?style=flat-square&logo=java&logoColor=white" />      
+      <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-AA1302?style=flat-square&logo=ruby&logoColor=white" />
+      <img alt="Golang" src="https://img.shields.io/badge/-Golang-282A35?style=flat-square&logo=go&logoColor=04C7D8" />
+      <img alt="PHP" src="https://img.shields.io/badge/-php-4D588E?style=flat-square&logo=php&logoColor=white" />
+      <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white" />
     </p>
   </samp>
 
