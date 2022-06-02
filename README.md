@@ -1,4 +1,4 @@
-### Hello There! <img src="assets/hi.gif" width="22px"> Welcome to my profile
+### Hello There! <img src="assets/hi.gif" width="22px" height="22px"> Welcome to my profile
 
 <samp>
   </br>
